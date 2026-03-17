@@ -1,1 +1,1 @@
-# odin-recipes2
+odin-recipes project showcases the basic implementation of HTML. Through this project the student will demonstrate their skills on constructing basic web pages, linking them to each other, and structuring the content of the page.
